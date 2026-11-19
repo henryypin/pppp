@@ -1,0 +1,11 @@
+{
+  "name": "pppp",
+  "version": "0.1.0",
+  "description": "Personal skills for Pi, installed as one package.",
+  "keywords": ["pi-package"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:henryypin/pppp.git"
+  }
+}
