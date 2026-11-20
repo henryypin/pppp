@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "Personal skills for Pi, installed as one package.",
   "keywords": ["pi-package"],
+  "pi-subagents": { "agents": ["./agents"] },
   "license": "MIT",
   "repository": {
     "type": "git",
