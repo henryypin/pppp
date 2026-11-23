@@ -6,8 +6,9 @@ Skills copied from upstream projects, so they can be re-synced later. Skills not
 | --- | --- | --- | --- | --- |
 | `skills/technical-writing` | https://github.com/cursor/plugins/tree/main/pstack/skills/technical-writing | `35a9094` | 2026-06-10 | Unmodified. |
 | `skills/unslop` | https://github.com/cursor/plugins/tree/main/pstack/skills/unslop | `35a9094` | 2026-06-10 | Unmodified. `technical-writing` refers to this skill by name. |
+| `skills/in-your-own-words` | https://github.com/cursor/plugins/tree/main/pstack/skills/in-your-own-words | `dbf49813` | 2026-11-23 | Unmodified. |
 
-Both upstream skills are MIT licensed, Copyright (c) 2026 Lauren Tan. The notice is in `LICENSE`.
+All three upstream skills are MIT licensed, Copyright (c) 2026 Lauren Tan. The notice is in `LICENSE`.
 
 To refresh a skill:
 
